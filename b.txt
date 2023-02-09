@@ -1,3 +1,4 @@
 b
 this was added by jdd5
 second reset --hard test. With one commit in local branch (2)
+testing hard reset shared/5555 remote 2
