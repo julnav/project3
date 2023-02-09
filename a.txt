@@ -1,1 +1,2 @@
 a
+testting reset --hard. This line was added after pull request
