@@ -1,2 +1,3 @@
 b
 this was added by jdd5
+second reset --hard test. With one commit in local branch (2)
