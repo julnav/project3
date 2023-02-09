@@ -1,3 +1,4 @@
 a
 testting reset --hard. This line was added after pull request
 second reset --hard test. With one commit in local branch (1) 
+testing hard reset second time
